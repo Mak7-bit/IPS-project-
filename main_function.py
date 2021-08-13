@@ -14,7 +14,7 @@ from astropy.modeling.models import Rotation2D, Gaussian2D
 import pymc3 as pm
 
 #!pip install iminuit # you can comment this out once it has run once
-import iminuit
+#import iminuit
 
 #!pip install astropy
 import astropy
